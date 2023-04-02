@@ -2,6 +2,7 @@
   "name": "school-bar-code-generator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lightori.github.io/school-bar-code-generator/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
