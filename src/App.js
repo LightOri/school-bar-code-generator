@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <Box my={3} width="100%">
         <TextField
-          label="Кількість рядків"
+          label="Кількість штрихкодів"
           value={rowsCount}
           type="number"
           inputProps={{ min: 1, max: 100000 }}
@@ -25,7 +25,7 @@ function App() {
           sx={{ minWidth: 200 }}
         />
         <TextField
-          label="Кількість елементів в рядку"
+          label="Кількість повторень"
           value={elementsInRow}
           type="number"
           inputProps={{ min: 1, max: 100000 }}
