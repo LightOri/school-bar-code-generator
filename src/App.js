@@ -6,8 +6,8 @@ import BarcodeItems from "./components/BarcodeItems/BarcodeItems";
 
 function App() {
   const [rowsCount, setRowsCount] = useState(1);
-  const [elementsInRow, setElementsInRow] = useState(2);
-  const [columnsCount, setColumnsCount] = useState(2);
+  const [elementsInRow, setElementsInRow] = useState(1);
+  const [columnsCount, setColumnsCount] = useState(1);
   const [displayLabel, setDisplayLabel] = useState(true);
   const [displayValue, setDisplayValue] = useState(true);
 
