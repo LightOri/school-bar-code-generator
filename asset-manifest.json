@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/school-bar-code-generator/static/css/main.964fdded.css",
-    "main.js": "/school-bar-code-generator/static/js/main.afa52925.js",
+    "main.js": "/school-bar-code-generator/static/js/main.0f95e2bd.js",
     "static/js/787.55fd112f.chunk.js": "/school-bar-code-generator/static/js/787.55fd112f.chunk.js",
     "index.html": "/school-bar-code-generator/index.html",
     "main.964fdded.css.map": "/school-bar-code-generator/static/css/main.964fdded.css.map",
-    "main.afa52925.js.map": "/school-bar-code-generator/static/js/main.afa52925.js.map",
+    "main.0f95e2bd.js.map": "/school-bar-code-generator/static/js/main.0f95e2bd.js.map",
     "787.55fd112f.chunk.js.map": "/school-bar-code-generator/static/js/787.55fd112f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
-    "static/js/main.afa52925.js"
+    "static/js/main.0f95e2bd.js"
   ]
 }
